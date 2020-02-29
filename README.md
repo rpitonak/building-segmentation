@@ -3,7 +3,7 @@
 This repository contains solution for the [Open Cities AI Challenge: Segmenting Buildings for Disaster Resilience](https://www.drivendata.org/competitions/60/building-segmentation-disaster-resilience/page/150/) hosted by [DRIVENDATA](https://www.drivendata.org/).
 
 Whole pipeline is divided into three jupyter notebooks:
-  1) [Data pre-processing](/pre_processing.ipynb)
+  1) [Data pre-processing](/preprocessing.ipynb)
   2) [Training and evaluation of the model](/building_segmentation.ipynb)
   2) [Preparation of the results for submission](/submission.ipynb)
 
